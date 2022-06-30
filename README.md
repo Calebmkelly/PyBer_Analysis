@@ -37,13 +37,25 @@ figure 4 - Box-and-whisker plot of the driver count data
 
 Above is figure 4, a box-and-whisker plot of the driver count data which demonstrates the range of the number of drivers that occurs for each city type. from the figure 4 can it be shown that the majority of drivers gravitate towards Urban cities, with urban cities having a significantly higher amount of drivers than both Suburban cities and rural cities.
 
-figure 5 - Pie chart of the total fare data
+figure 5 - Pie chart of the total fares data
 ![Fig5.png](https://github.com/Calebmkelly/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
-Above is figure 5, a pie chart that presents the percentage value of total fare data for each city type. Urban cities attribute to having the majority of the total amount fares with a whopping 62.7%. it should be noted that although rural areas on average have a higher fare price, the accumulation of smaller average fares provides how the activity in Urban areas is substantial. Rural cities only account for 6.8% of total fares, and Suburban cities lying in the middle again with 30.5%.
+Above is figure 5, a pie chart that presents the percentage value of the total fares for each city type. Urban cities attribute to having the majority of the total amount fares with a whopping 62.7%. it should be noted that although rural areas on average have a higher fare price, the accumulation of smaller average fares provides how the activity in Urban areas is substantial. Rural cities only account for 6.8% of total fares, and Suburban cities lying in the middle again with 30.5%.
 
 figure 6 - Pie chart of the total rides data
-![Fi6.png](https://github.com/Calebmkelly/PyBer_Analysis/blob/main/analysis/Fig6.png)
+![Fig6.png](https://github.com/Calebmkelly/PyBer_Analysis/blob/main/analysis/Fig6.png)
+
+Above is figure 6, a pie chart that presents the percentage value of the total rides for each city type. once again, Urban Cites provide for the largest portion of the pie, taking up 68.4% of the total rides. falling a close second was the suburban city type with 26.3%, and Rural cities having the least amount of rides, making up only 5.3%. 
+
+figure 7 - Pie chart of the total rides data
+![Fig7.png](https://github.com/Calebmkelly/PyBer_Analysis/blob/main/analysis/Fig7.png)
+
+Above is figure 7, a pie chart that presents the percentage value of the total drivers for each city type. Urban cities have a significant portion of drivers adding up to a 80.9% of the total drivers for PyBer. Suburban cities account for 16.5% percent of drivers, leaving rural city types to have a mere 2.6%. 
+
+figure 8 - line chart of the total fares data
+![PyBer_fare_summary.png](https://github.com/Calebmkelly/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
+above is figure 8, The PyBer fare summary, a line chart depicting the total fare by city type over the course of January to May of 2019. Unlike the previous figures, figure 7 shows data over a time period, providing more depth to the analysis. as seen previously, Urban cities present its self with an average fare even with dips and surges, the graph trends at a steady pace for all the city types.
 
 
 ## Summary:
