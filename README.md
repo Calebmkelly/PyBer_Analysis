@@ -55,8 +55,11 @@ Above is figure 7, a pie chart that presents the percentage value of the total d
 figure 8 - line chart of the total fares data
 ![PyBer_fare_summary.png](https://github.com/Calebmkelly/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-above is figure 8, The PyBer fare summary, a line chart depicting the total fare by city type over the course of January to May of 2019 on a weekly basis. Unlike the previous figures, figure 7 shows data over a time period, providing more depth to the analysis. as seen previously, Urban cities presents itself to have a higher fare amount that topples over suburban and rural city types, with suburban cites lying in the middle, and rural cities having the lowest fare amount. Even with dips and surges, the graph trends at a steady pace for all the city types.
+above is figure 8, The PyBer fare summary, a line chart depicting the total fare by city type over the course of January to the beginning of May of 2019 on a weekly basis. Unlike the previous figures, figure 7 shows data over a time period, providing more depth to the analysis. as seen previously, Urban cities presents itself to have a higher fare amount that topples over suburban and rural city types, with suburban cites lying in the middle, and rural cities having the lowest fare amount. Even with dips and surges, the graph trends at a steady pace for all the city types.
 
 
 ## Summary:
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+Based on the data that was given here are three Business proposals for PyBer's ride sharing service: 
+- Rural areas seem to have the least development amongst other city types, this could be due to a variety of factors such as rural areas being less dense and more spread out. it may be wise to invest more drivers in under served rural areas that are more compact or that are closer to densly populated areas such as nearby towns or cities. 
+- with a large portion of rides taking place in urban areas, increasing the fare price ever so genlty can provide a large boost in revenue over time.
+- perhaps getting peoples attention is something that could help drive PyBer towards even more success, ride activity could increase with the use of promotional deals and offers, especially in urban and sub urban cities.
