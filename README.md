@@ -30,10 +30,12 @@ Above is figure 2, a box-and-whisker plot of the ride count data which displays 
 figure 3 - Box-and-whisker plot of the Ride fare Data
 ![Fig3.png](https://github.com/Calebmkelly/PyBer_Analysis/blob/main/analysis/Fig3.png)
 
-Above is figure 3, a box-and-whisker plot of the ride fare data which displays the range of fares that occurs for each city type. similarly, the correlation between figure 1 and figure 3 average fares is present. The average fare for urban cities is lower on average when compared to Suburban and rural areas. Rural areas overall have the highest average fare in comparision to other city types. 
+Above is figure 3, a box-and-whisker plot of the ride fare data which shows the range of fares that occurs for each city type. similarly, the correlation between figure 1 and figure 3 average fares is present. The average fare for urban cities is lower on average when compared to Suburban and rural areas. Rural areas overall have the highest average fare in comparision to other city types. 
 
 figure 4 - Box-and-whisker plot of the driver count data
 ![Fig4.png](https://github.com/Calebmkelly/PyBer_Analysis/blob/main/analysis/Fig4.png)
+
+Above is figure 4, a box-and-whisker plot of the driver count data which demonstrates the range of the number of drivers that occurs for each city type. from the figure 4 can it be shown that the majority of drivers gravitate towards Urban cities, with urban cities having a significantly higher amount of drivers than both Suburban cities and rural cities.
 
 ## Summary:
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
