@@ -10,6 +10,9 @@
 To visually represent the data, the results will be elucidated through the use of bubble charts, bar-and-whisker plots, and pie charts will be used. this data will be used to help determine the affordability as well as improve the access to ride-sharing services for neighborhoods that appear underserved.
 
 ## Results:
+
+![Fig1.png](https://github.com/Calebmkelly/PyBer_Analysis/blob/main/analysis/Fig1.png)
+
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
 
