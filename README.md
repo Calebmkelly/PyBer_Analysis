@@ -37,8 +37,14 @@ figure 4 - Box-and-whisker plot of the driver count data
 
 Above is figure 4, a box-and-whisker plot of the driver count data which demonstrates the range of the number of drivers that occurs for each city type. from the figure 4 can it be shown that the majority of drivers gravitate towards Urban cities, with urban cities having a significantly higher amount of drivers than both Suburban cities and rural cities.
 
-figure 5 - Pie chart of the driver count data
+figure 5 - Pie chart of the total fare data
 ![Fig5.png](https://github.com/Calebmkelly/PyBer_Analysis/blob/main/analysis/Fig5.png)
+
+Above is figure 5, a pie chart that presents the percentage value of total fare data for each city type. Urban cities attribute to having the majority of the total amount fares with a whopping 62.7%. it should be noted that although rural areas on average have a higher fare price, the accumulation of smaller average fares provides how the activity in Urban areas is substantial. Rural cities only account for 6.8% of total fares, and Suburban cities lying in the middle again with 30.5%.
+
+figure 6 - Pie chart of the total rides data
+![Fi6.png](https://github.com/Calebmkelly/PyBer_Analysis/blob/main/analysis/Fig6.png)
+
 
 ## Summary:
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
