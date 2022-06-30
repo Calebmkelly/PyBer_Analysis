@@ -11,6 +11,7 @@ To visually represent the data, the results will be elucidated through the use o
 
 ## Results:
 
+figure 1 - Bubble chart comparing the average fare charted against the number of rides for each city type.
 ![Fig1.png](https://github.com/Calebmkelly/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
