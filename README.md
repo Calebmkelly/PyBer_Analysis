@@ -37,5 +37,8 @@ figure 4 - Box-and-whisker plot of the driver count data
 
 Above is figure 4, a box-and-whisker plot of the driver count data which demonstrates the range of the number of drivers that occurs for each city type. from the figure 4 can it be shown that the majority of drivers gravitate towards Urban cities, with urban cities having a significantly higher amount of drivers than both Suburban cities and rural cities.
 
+figure 5 - Pie chart of the driver count data
+![Fig5.png](https://github.com/Calebmkelly/PyBer_Analysis/blob/main/analysis/Fig5.png)
+
 ## Summary:
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
